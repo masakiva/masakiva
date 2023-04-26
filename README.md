@@ -20,9 +20,10 @@ Here is an overview of the technologies I worked with so far:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 - System administration:  
-![DOCKER](https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![KUBERNETES](https://img.shields.io/badge/-Kubernetes-grey?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![KUBERNETES](https://img.shields.io/badge/-Kubernetes-grey?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![DOCKER](https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![DOCKER-COMPOSE](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - Version control:  
 ![GIT](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=Git&logoColor=white)
 
