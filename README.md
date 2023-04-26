@@ -27,7 +27,7 @@ Here is an overview of the technologies I worked with so far:
 - Version control:  
 ![GIT](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=Git&logoColor=white)
 
-And here are some technologies I would like to learn:  
+And here are some technologies I would like to learn:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
