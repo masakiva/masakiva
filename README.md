@@ -1,7 +1,8 @@
 ### Hello there! 👋
 It's Masaki.
 Thanks for visiting my Github profile!  
-You can have a look at my repositories, which are mostly projects made for the [42 school](https://42.fr/en/homepage/) curriculum, in Paris and then in Tokyo.
+You can have a look at my repositories, which are mostly projects made for the [42 school](https://42.fr/en/homepage/) curriculum, in Paris and then in Tokyo.  
+My most important projects are pinned just below this introduction! ↓↓  
 
 Here is an overview of the technologies I worked with so far:  
 - Software development:
